@@ -39,6 +39,8 @@ scoreboard objectives remove talent_1
 scoreboard objectives add talent_1 dummy "携带天赋 1"
 scoreboard objectives remove talent_2
 scoreboard objectives add talent_2 dummy "携带天赋 2"
+scoreboard objectives remove talent_temp
+scoreboard objectives add talent_temp dummy "携带天赋 临时显示"
 scoreboard objectives remove skill_cd
 scoreboard objectives add skill_cd dummy "技能冷却"
 scoreboard objectives remove talent_1_cd
